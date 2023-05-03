@@ -1,7 +1,7 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import {Home} from './pages/homes/Home.jsx';
 import {List} from './pages/list/List.jsx';
-import {Hotels} from './pages/hotels/Hotels.jsx';
+import{ Hotels} from './pages/hotels/Hotels.jsx';
 function App() {
   return (
     <BrowserRouter>
