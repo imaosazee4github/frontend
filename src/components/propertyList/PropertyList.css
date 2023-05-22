@@ -21,8 +21,11 @@
 
 .pListTitle> h1{
     font-size: 18px;
+    margin-bottom: 8px;
+    text-transform: capitalize;
 }
 .pListTitle> h2{
+    margin-top: 3px;
     font-size: 14px;
     font-weight: 300;
 }
